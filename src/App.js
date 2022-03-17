@@ -8,7 +8,9 @@ function App() {
       <button>Add Todo</button>
 
       <ul>
+        <li>wakeup early in the morning for a morning run to marurui and back</li>
         <li>Read atleast one chapter of code discovery</li>
+        
       </ul>
     </div>
   );
